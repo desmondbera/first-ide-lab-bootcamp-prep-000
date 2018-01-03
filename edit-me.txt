@@ -1,1 +1,1 @@
-"Hello World!"
+"Hello Crazy World! I am ready to learn some JS!"
